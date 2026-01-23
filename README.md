@@ -3,5 +3,10 @@ Similar to templates but more comprehensive, these are more like creation kits, 
 
 # Python 🐍:
 
+# DVDlhcS:
 
+https://github.com/Stormwindsky/DVD-logo-hitting-corner-Simulator/
 
+# Picxo:
+
+https://github.com/Stormwindsky/Picxo/tree/main
