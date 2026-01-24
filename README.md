@@ -10,3 +10,7 @@ https://github.com/Stormwindsky/DVD-logo-hitting-corner-Simulator/
 # Picxo:
 
 https://github.com/Stormwindsky/Picxo
+
+# Spyke:
+
+https://github.com/Stormwindsky/Spyke/
