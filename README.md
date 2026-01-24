@@ -9,4 +9,4 @@ https://github.com/Stormwindsky/DVD-logo-hitting-corner-Simulator/
 
 # Picxo:
 
-https://github.com/Stormwindsky/Picxo/tree/main
+https://github.com/Stormwindsky/Picxo
