@@ -4,29 +4,35 @@ Similar to templates but more comprehensive, these are more like creation kits, 
 
 # Python 🐍:
 
-# DVDlhcS:
+## DVDlhcS:
 
 https://github.com/Stormwindsky/DVD-logo-hitting-corner-Simulator/
 
-# Picxo:
+## Picxo:
 
 https://github.com/Stormwindsky/Picxo
 
-# Spyke:
+## Spyke:
 
 https://github.com/Stormwindsky/Spyke/
 
-# StormBrowser:
+## StormBrowser:
 
 https://github.com/Stormwindsky/StormBrowser
 
 
 # HTML 🌐:
 
-# Modern Portfolio Starter Kit:
+## Modern Portfolio Starter Kit:
 
 https://github.com/Stormwindsky/Modern-Portfolio-Starter-Kit
 
-# 𝗥⟐𝗕𝗟◘𝗫 App Builder:
+# Script .sh (Linux Mint (most of the time))
+
+## 𝗥⟐𝗕𝗟◘𝗫 App Builder:
 
 https://github.com/Stormwindsky/Roblox-App-Builder
+
+## Peertube EZ installer:
+
+https://github.com/Stormwindsky/EZ_PeerTube_Test_Setup
