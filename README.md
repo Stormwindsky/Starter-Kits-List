@@ -27,7 +27,11 @@ https://github.com/Stormwindsky/StormBrowser
 
 https://github.com/Stormwindsky/Modern-Portfolio-Starter-Kit
 
-# Script .sh (Linux Mint (most of the time))
+## Meta http-equiv Refresh:
+
+https://github.com/Stormwindsky/Meta-http-equiv-Refresh
+
+# Script .sh (Linux Mint (most of the time)) 🐧 🪟:
 
 ## 𝗥⟐𝗕𝗟◘𝗫 App Builder:
 
