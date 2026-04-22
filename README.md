@@ -44,3 +44,7 @@ https://github.com/Stormwindsky/Roblox-App-Builder
 ## Peertube EZ installer:
 
 https://github.com/Stormwindsky/EZ_PeerTube_Test_Setup
+
+## Setup Electron:
+
+https://github.com/Stormwindsky/setup-electron
