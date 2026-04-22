@@ -31,6 +31,10 @@ https://github.com/Stormwindsky/Modern-Portfolio-Starter-Kit
 
 https://github.com/Stormwindsky/Meta-http-equiv-Refresh
 
+## index.html Starter Kit:
+
+https://github.com/Stormwindsky/HTML-Starter-Kit/tree/main
+
 # Script .sh (Linux Mint (most of the time)) 🐧 🪟:
 
 ## 𝗥⟐𝗕𝗟◘𝗫 App Builder:
