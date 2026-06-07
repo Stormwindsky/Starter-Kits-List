@@ -52,3 +52,9 @@ https://github.com/Stormwindsky/EZ_PeerTube_Test_Setup
 ## Setup Electron:
 
 https://github.com/Stormwindsky/setup-electron
+
+# Godot 4 🤖:
+
+## Starter Main Menu:
+
+https://github.com/Stormwindsky/Main-Menu-Starter-Godot
