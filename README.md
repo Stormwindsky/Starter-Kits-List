@@ -24,6 +24,10 @@ https://github.com/Stormwindsky/StormBrowser
 
 https://github.com/Stormwindsky/YT_Downloader
 
+## Sb3R:
+
+https://github.com/Stormwindsky/sb3R
+
 
 # HTML 🌐:
 
